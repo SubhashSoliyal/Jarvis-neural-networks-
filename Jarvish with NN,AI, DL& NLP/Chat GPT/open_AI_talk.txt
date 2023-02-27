@@ -1,0 +1,118 @@
+YOu Said: hello
+A.I :  Hi there! How may I help you?
+
+
+YOu Said: hello
+A.I :   Hi there, how can I help you?
+
+
+YOu Said: kya kar rahe ho
+A.I :  main samay ka upyog karke data  analyze kar raha hoon.
+
+
+YOu Said: okay bye
+A.I :  Have a good day!
+
+
+YOu Said: open file
+YOu Said: good morning
+A.I :  Good morning! How can I help you?
+
+
+YOu Said: Mere Liye chai bnao
+A.I :  Mein chai banane ka intezaam kar raha hoon.
+
+
+YOu Said: tell me a story
+A.I :  Once upon a time, there was a young princess named Isabella who lived in a castle. One day, while walking around the castle grounds, she came across an enchanted lake. Intrigued, she decided to explore the lake and when she did, she found a beautiful golden apple at the bottom. When she picked it up, a magical genie appeared and granted her three wishes. Isabella thought hard about what she wanted and finally decided on wishing for true love, everlasting health, and good luck. The genie smiled and granted her wish with one final warning: that the wishes would only last as long as the apple remained in her possession. With that, Isabella thanked the genie and returned to the castle with her newfound gifts. She lived happily ever after, using her wishes to make the world a better place.
+
+
+YOu Said: keep continue
+A.I :  Ok, I will keep going.
+
+
+YOu Said: pani puri song
+A.I :  Here's a list of some popular Pani Puri songs: 
+1. "Pani Puri" by Diljit Dosanjh 
+2. "Paani Paani" by Badshah 
+3. "Pani Pani Re" by Shekhar Ravjiani and Neeti Mohan 
+4. "Aye Pana Pani" by Jasbir Jassi 
+5. "Golgappa Pani Puri" by Ramji Gulati 
+6. "Paniyon Sa" by Atif Aslam 
+7. "Pyar Mein Pani Puri" by Kamal Raja 
+8. "Paani Wala Dance" by Kuch Kuch Locha Hai 
+9. "Poochho Na Yaar Kya Hua" by Sonu Nigam 
+10. "Mirchi Lagi Toh" by Sunidhi Chauhan
+
+
+YOu Said: okay bye
+A.I : 
+Goodbye! Have a great day!
+
+
+YOu Said: namaste
+A.I :  Namaste! Nice to meet you.
+
+
+YOu Said: kya kar rahe ho
+A.I :  main abhi computer programing kar raha hoon.
+
+
+YOu Said: kab se
+A.I :  Kyonki aap shayad kewal yeh jaana chahte hai ki kab se kya chal raha hai? Is sawal ka jawab dene ke liye, aapko us cheez ka naam janna hoga jo aap samajhna chahte hai.
+
+
+YOu Said: goodbye
+A.I :  Goodbye. Have a great day!
+
+
+YOu Said: good morning
+A.I : 
+Good morning! How can I help?
+
+
+YOu Said: play a song
+A.I :  Sure! Here's a great one: "Can't Stop the Feeling" by Justin Timberlake.
+
+
+YOu Said: open YouTube
+A.I :  https://www.youtube.com/
+
+
+YOu Said: open YouTube and play song
+A.I :  Okay, opening YouTube and playing your song.
+
+
+YOu Said: goodbye
+A.I :  Bye!
+
+
+YOu Said: open file
+YOu Said: good morning
+A.I :  Good morning, how can I help you?
+
+
+YOu Said: tell me something
+A.I :  Albert Einstein is one of the most famous scientists in history.
+
+
+YOu Said: any more about this
+A.I :  This type of AI is able to learn from its mistakes and use that knowledge to improve its performance in the future. It can also be programmed to make decisions based on facts, data and algorithms. AI is used in a variety of applications such as computer vision, natural language processing, robotics, and machine learning. AI can help automate many tasks, freeing people up to focus on more important tasks.
+
+
+YOu Said: tell me about advertisement
+A.I :  Advertising is a marketing communication that employs an openly sponsored, non-personal message to promote or sell a product, service or idea. Sponsors of advertising are typically businesses wishing to promote their products or services. Advertising is differentiated from public relations in that an advertiser pays for and has control over the message. It differs from personal selling in that the message is non-personal, i.e., not directed to a particular individual.
+
+
+YOu Said: okay bye
+A.I :  Goodbye!
+
+
+YOu Said: what to send
+A.I :  It depends on the recipient and the situation.
+
+
+YOu Said: okay bye
+A.I :  See you later!
+
+

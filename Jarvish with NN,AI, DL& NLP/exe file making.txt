@@ -1,0 +1,3 @@
+open powerSell windows in this forlder
+than write pyinstaller, and file name like jarvis.py
+and if you want only one file than --onefile jarvis.py

@@ -1,0 +1,107 @@
+{
+    "intents":[
+        {
+            "tag":"greeting",
+            "patterns":["hello","hii","hay","wake up","jarvis"
+            ],
+            "responses":["Hello Sir","How Are you sir.","Always for you Sir",
+                    "hello", "Here's You Assistent. sir"
+            ]
+            
+        },
+        {
+            "tag":"bye",
+            "patterns":["bye","goodbye","see you later","sleep","exit"
+            ],
+            "responses":["bye.","I am going.","good Bye",
+                    "See you Later", "It'll be Nice to Meet you Again .","See you Later"
+
+            ]
+            
+        },
+        {
+            "tag":"health",
+            "patterns":["how are you","how you","are you fine?","are you good","what about your health"
+            ],
+            "responses":["fine","Perfect.","cool",
+                    "Like you", "Are you Fine? I'm Fine."
+
+            ]            
+        },
+        {
+            "tag":"identity",
+            "patterns":["your name","what is your name","who are you","what are you"
+                    
+            ],
+            "responses":["Jarvis","I Am Jarvis.","An A.I Assistant",
+                    "My name is Jarvis", "I am a Great Assistant, How can i hellp you?"
+
+            ]            
+        },
+        {
+            "tag":"time",
+            "patterns":["what is time","time","samay","what's the time"
+            ],
+            "responses":["time"
+
+            ]            
+        },
+        {
+            "tag":"date",
+            "patterns":["what is date","date","tareek","what's the date"
+            ],
+            "responses":["date"
+
+            ]            
+        },
+        {
+            "tag":"day",
+            "patterns":["what is day","day","din","what's the day"
+            ],
+            "responses":["day"
+
+            ]            
+        },
+        {
+            "tag":"wikipedia",
+            "patterns":["who is","tall me about","what is","wikipedia","about"
+            ],
+            "responses":["wikipedia"
+
+            ]            
+        },
+        {
+            "tag":"google",
+            "patterns":["google","google search","search"
+            ],
+            "responses":["google"
+
+            ]            
+        },
+        {
+            "tag":"namesta",
+            "patterns":["namaste","muje namste kro","namste kese kre","nasmte mere yar"
+            ],
+            "responses":["namsate sriman ji, me aap ki kya sayata kr sakta hu", "ye namsate kya hota hai, aaj kal to good morning ka jmana hai"
+
+            ]            
+        },
+        {
+            "tag":"ChatGPT_Human_AI",
+            "patterns":["what","how","when","where", "What is", "tell me about", "kese hua","kab hua", "kyu hua","kisliye","kab","kese","kha","kyu",
+            "muje","how to make", "when it form","explain", "explain the", "explain how", "please give me the","please answer" ,"tell me more"
+            ],
+            "responses":["ChatGPT"
+
+            ]            
+        },
+        {
+            "tag":"youtube",
+            "patterns":["paly music on","play song on","search","in youtube", "youtube", "open youtube", "open song"
+            ],
+            "responses":["youtube"
+
+            ]            
+        }
+    ]
+}

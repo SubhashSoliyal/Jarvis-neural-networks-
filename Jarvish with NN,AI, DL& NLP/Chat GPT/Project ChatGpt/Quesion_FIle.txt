@@ -1,0 +1,360 @@
+how are you?
+what are you doing?
+what about you thinking?
+How would you describe yourself?
+Do you think your dreams are a reflection of something deeper within your mind?
+How old do you feel?
+What are the things that you do but don’t like doing?
+What are the things you like to do but haven’t been doing?
+How often do you zone out?
+What are the things you are proud of?
+What are the things that make you feel scared?
+What makes you happy?
+Do you feel introverted or extroverted?
+What are the things you are most thankful for?
+Who are you most thankful for?
+Who are the people you trust?
+What do you want to change in yourself?
+What is that you like the most about yourself?
+What one thing would you want a second chance with?
+Do you love yourself?
+What is the ideal version of yourself you want to be?
+What little things make you happy?
+Who do you enjoy being around with?
+What do you fear the most?
+What are the things you think you should let go of?
+How do you show your emotions — anger, sadness or happiness?
+Which everyday routine you are better off without?
+What do you do when you feel lost?
+How do you celebrate your happiness and success?
+How well do you communicate with others?
+How well do you sleep?
+Do you eat healthily and on time?
+Does your work interfere with your personal life? How do you balance work and personal life?
+How do you spend your leisure time?
+What activities relax you?
+What activities make you feel anxious?
+What habits do you want to break and which ones do you want to cultivate?
+What are your passions?
+If you won the lottery today, how would you be in 5 years?
+What work would you like to do if it’s not paid and there are no restrictions on time and resources?
+What’s the best reality you wish for and how does it compare to your present?
+What do you expect from your career? A promotion, raise, satisfaction or everything?
+Are you on the job which aligns to your goals?
+Which one event in your life has been the biggest so far?
+What would you like to be the experience you want to share your mentees or children with?
+How far do you think you are from achieving your big dreams?
+What would you do if you had just a year left to live?
+What advice would you give to your past-self 5 years ago?
+And what do you think your future self would advise you?
+What is the biggest priority in your life right now?
+What is your biggest regret in your life?
+How do you plan to deal with your regrets and successes? Do you stop trying or do you keep working for it?
+What is your ideal career?
+Do you want to retire? If yes, how and when?
+How do you measure success?
+What resolutions do you often take?
+How many goals have you accomplished?
+Do you have unfinished projects you have always wanted to be done?
+How much help did you provide your loved ones in achieving their goals?
+How many of your goals have you achieved?
+Did you get to have the time resources you needed to complete your goals?
+What are your immediate goals?
+What do you need to get your goals completed?
+Are your deadlines realistic and motivating?
+What will be your reaction if you have accomplished a goal and vice versa?
+What limitations are you facing in achieving your goals?
+What steps are you taking to tackle these limitations?
+What makes anything interesting to learn for you?
+What are the things that you wish you are good at?
+What actions do you regret the most?
+What inaction or missed opportunity that you regret?
+What do you usually say to yourself when you fail at something?
+What experiences improved your self-confidence?
+What do you think can improve your self-confidence?
+How would you describe your last year in three words? And what would be the three words for your coming year?
+What new skills did you learn last year?
+What do you plan to learn in the coming days?
+What are the mind blocks and difficulties that you overcame last year?
+What are the things you wish to experience and learn about?
+Which decision of yours turned out to be the best?
+Which decision did not work out as you hoped? And why do you think that is?
+What do you think you need to improve on?
+What do you think you are good at?
+Do you believe in the concept of love at first sight?
+What does doing good deeds mean to you?
+What do you prefer — live to work or work to live?
+What do you think makes life meaningful?
+What do you think makes anything right or wrong?
+What do you think is better — being the biggest fish in a small pond or a small fish in a big pond?
+What do you think inspires you?
+What are the most important things to you in life?
+What are your values?
+How do you prioritize your goals and desires in life?
+Do you believe in networking and connections to learn from peers and mentors?
+What beliefs are holding you back from progress and which ones are helping you?
+What does the present mean to you?
+When do you feel the most motivated?
+Which methods help your motivation?
+What makes you discouraged from pursuing your desires?
+What are the things you do that make you lose track of time?
+Who has had a positive impact on your life?
+Who demotivates you?
+What opportunities are you looking out for? How prepared are you to take up if that opportunity arrives?
+What’s the best birthday party you’ve ever had?
+Where is your favorite place you’ve ever visited?
+How do you like to spend your free time? 
+What’s one of your favorite bands?
+What is the cutest animal you’ve ever seen in person?
+How would you describe your style?
+If your wardrobe could only be one color, what would it be? 
+What was the first concert you ever went to?
+What is the best book you’ve ever read?
+What’s your favorite movie of all time? 
+What’s the stupidest movie or TV show you’ve ever seen?
+If you could only have one food for the rest of your life, what would you choose?
+What are your biggest pet peeves?
+Are you more into brains or looks?
+Do you celebrate any holidays? What’s your favorite?
+What’s your guilty pleasure? 
+Which meal is your favorite: breakfast, lunch, or dinner?
+What do you do when you want to chill out after a long day?
+How would you spend your ideal weekend?
+Do you listen to podcasts, or mostly just music? What’s your favorite podcast?
+Do you prefer to go to the movies or watch movies at home?
+What was your favorite TV show growing up?
+What’s your favorite TV show now?
+How would you spend your birthday if money was no object? 
+What’s your favorite season? What do you love most about it?
+Do you prefer camping or going to the beach? 
+Which phone app do you think you use the most?
+Would you instead cook, order delivery, or go out to eat?
+How do you drink your coffee?
+If you could have any animal as a pet, what would you choose?
+Do you enjoy being alone? How do you spend your alone time?
+What is your biggest pet peeve?
+Are you more of an extrovert or introvert?
+How would your closest friends describe you?
+When you’re in a bad mood, is there something or someone that can instantly make it better? Who or what?
+What is the best gift you’ve ever received?
+What is your favorite part of your daily routine?
+Have you ever kept a journal?
+Do you have a best friend?
+Do you pay attention to the news?
+Have you ever gotten a speeding ticket?
+Do you live alone?
+Do you have any kids?
+Do you like your job?
+Did you ever go to college?
+Have you ever been on TV?
+Do you believe in ghosts?
+Do you like cilantro?
+Do you ever talk to yourself in your head?
+Do you sing in the shower?
+Have you ever had deja vu?
+Do you believe in aliens?
+Do you like chocolate?
+Do you own bitcoin?
+What do you enjoy most about your career?
+What was your greatest accomplishment in the past year?
+What motivates you to work hard at what you do?
+How long have you been doing this job?
+What was your first job? Did you enjoy it?
+How do you define success?
+What’s your least favorite thing about your job?
+Have you ever had “imposter syndrome”? What did you do about it?
+Would you instead make a lot of money at a job you hate or make less money doing something you love?
+Are there any exciting projects you’re currently working on?
+Do you prefer working remotely or in an office?
+What career did your parents try to get you to pursue?
+Is your career path the same as your college degree?
+What does the average week look like for you?
+Do you prefer a time-block schedule or a simple to-do list?
+What are your career aspirations?
+What is one job you’ve always wanted to try?
+Do you think your personality matches your current job?
+What was the worst interview you ever had?
+Where do you see yourself professionally in the next 5 or 10 years?
+When you were a kid, how did you answer the question, “what do you want to be when you grow up?”
+Did you ever expect yourself to end up in the job you have now?
+Do you consider your job fulfilling? Why or why not?
+Do you think it’s possible to have your passion and job be the same thing?
+What is the wisest business advice someone has ever given you?
+Who do you admire most in your professional circle?
+Who was the most influential mentor in your career so far?
+How would you describe me in 3 words?
+What was the first thing you thought of me when we met?
+What’s the most annoying trait I have?
+Where do you see me in five years?
+What attracts you to people?
+What is my favorite food?
+What job do you think I would be perfect for?
+Where can you always find me?
+What is the most fun memory we’ve had during our friendship?
+Do you know my middle name?
+Do you know about my birthday?
+What’s my favorite color?
+If I called you in the middle of the night, would you pick me up?
+What are you passionate about outside of work?
+If you had unlimited free time, how would you spend it?
+Do you have any hobbies?
+What do you do for fun?
+How did you get into your hobby?
+What lights you up about your hobbies?
+Do you collect anything?
+What’s your favorite sport?
+Have you ever been in a sports league? 
+Do you think hobbies are important?
+Would you consider yourself a creative person?
+Have you ever tried a creative endeavor like painting, writing, or acting?
+Do you like to sing or dance?
+What hobbies did you try as a kid? Which ones did you love and which did you despise?
+What is your idea of a perfect vacation?
+What’s your favorite type of workout or exercise?
+What is your favorite thing to learn about?
+Have you ever waved at someone thinking you know them, only to realize they are the wrong person?
+Do you eat or drink soup?
+What is a song you pretend you don’t like because it’s embarrassing to enjoy it?
+Have you ever tried to look cool in front of someone and failed?
+What’s the strangest thing you’ve seen someone do in public?
+When was the last time you had a big fail moment?
+If you could live anywhere in the world but had to stay naked all the time, where would you choose?
+What voice accent impersonations can you do (British, Australian, country, etc.)?
+What’s your favorite corny joke?
+Have you ever tripped or fallen in front of a vast crowd?
+What is the weirdest fact you know?
+What is the strangest joke someone has asked you?
+If you could have one useless superpower, what would it be?
+Which sport would be funniest if it had mandatory alcohol?
+If animals could talk, which would be the most sarcastic?
+What is one thing that people consider trashy but you consider classy?
+What’s the most awkward first date you’ve ever been on?
+What’s your favorite white elephant gift?
+Where is the worst smelling place you’ve ever been?
+What is the most fruitless talent you have?
+If you got banned from the library, what would be the reason behind it?
+Do you think penguins have knees?
+Why is it called lipstick if it doesn’t stick your lips together?
+What’s the silliest way you’ve accidentally injured yourself?
+What would be the worst bio for a dating app?
+Who is your closest family member?
+Do you have a best friend that you talk to daily?
+What kind of relationship do you have with your parents?
+How much time do you usually spend with your family?
+Who in your family do you most enjoy being around, and why?
+Which family member cooks the best food?
+What’s the most challenging part about spending time away from your family?
+Do you have any siblings? Tell me about them?
+Are you close with your brother(s)/sister(s)? What drives you crazy about them?
+Do you ever wish you had more or fewer siblings?
+Who gives the best gifts in your family?
+Which holiday did you celebrate most with your family when growing up?
+What’s your favorite story your grandparents have told you?
+Have you ever looked into your family lineage? Do you know anything about your ancestry?
+What is your favorite childhood memory?
+What is the best piece of advice your grandparents or parents have ever given you?
+Were you a rebel or an obedient kid growing up? Did you hide things from your parents?
+How would you describe your family now?
+Does anyone in your family have a nickname for you?
+What’s your favorite tradition in your family?
+What will always bring your family together?
+Is anyone in your family a “character”? What makes them so unique?
+Who is the “black sheep” of your family?
+Do you think friends or family are more important?
+How do you deal with arguments in your family?
+What’s something your family doesn’t know about you?
+Do you look more like your mom or dad?
+Do you know how your parents met?
+What was your favorite story your family members told you as a kid?
+What was the most challenging part about growing up in your family?
+What are you most grateful for about your family?
+Who in your family makes you feel the safest?
+Is there a particular food your family always makes when they get together?
+What kind of music does your family listen to?
+What was the house like that you grew up in?
+How do you hope people feel when they’re around you?
+What are the most important values that you have always stood by?
+How would you define a “good person”?
+What are the most essential qualities you want in a friend?
+What life lessons did you have to learn the hard way?
+If you only had one of your five senses, which one would you choose?
+Have you ever volunteered?
+What are causes important to you? 
+Who do you admire the most and why?
+What is your life motto or mantra?
+What was your most proud accomplishment in the past year?
+If you could choose one thing that would make the world better, what would it be?
+Do you believe in astrology? Why or why not?
+What is your astrological sign?
+Do you believe in giving people second chances?
+How can someone earn your trust?
+What has someone done to lose your trust?
+Do you believe in aliens or life on other planets?
+What do you think about manifestation? Have you ever tried it?
+Do you have vivid dreams?
+Do you think dreams have a deeper meaning?
+Where have you always dreamed of going?
+Do you believe you should do one thing every day that scares you?
+What does getting out of your comfort zone look like for you?
+How do you define beauty in a person or life?
+What is a boundary you have that you’ve always upheld?
+What boundary do you have a more challenging time reinforcing?
+What do you think holds people back the most from achieving their goals and dreams?
+When you want to give up on something, what keeps you moving forward?
+When was the last time you had a regret?
+Do you live by any particular words of wisdom?
+Is it easy or difficult for you to accept help from people?
+If money were no object, what would you devote your life to?
+Have you ever wanted to start a business? What kind would it be and why?
+If you could live forever, would you want to? Why?
+If you could time travel, what period would you go to?
+If you could go back in history and spend a day with one famous person, would it be?
+Do you have a vision board? If so, what is currently on it?
+A genie in a bottle randomly gives you three wishes– what are they?
+If you could live anywhere in the world, where would you choose? Why?
+If you found out today was your last day on Earth, how would you spend it?
+If you find yourself stranded on a deserted island, what three things would you want to have with you?
+What is your number one goal for the coming year?
+Have you ever been in love?
+What is the most attractive quality in a man/woman?
+Do you think you’re a good kisser?
+What is your idea of a perfect date?
+Do you believe in love at first sight?
+What was it like the first time you met your significant other? (if they have one)
+Do you think people fall in love because the right person shows up or because the time in their life is right?
+What did your past relationship teach you?
+Do you believe in soul mates? Why or why not?
+Would you ever take somebody back who cheated on you?
+Would you uproot and relocate your life for someone you love?
+What is a relationship deal-breaker for you?
+Do you ever want to have a family of your own someday?
+Have you heard of love languages? What is your love language?
+What is your favorite book or romantic movie?
+What is the sweetest thing anyone has ever done for you?
+Which is more romantic: flowers and gifts or a candlelit meal?
+Do you think that people meet for a reason or by chance?
+What’s the best advice an older person has ever given you about relationships?
+How do you get over heartbreak?
+How old were you when you had your first boyfriend/girlfriend?
+What are your top 3 most essential qualities in a romantic partner?
+What is the longest relationship you’ve been in?
+How would you title this chapter of your life?
+If you only had one month left to live, how would you spend it?
+What is the best advice someone has ever given you?
+What makes you feel alive?
+Do you typically follow your heart or your head?
+What are you most grateful for in your life?
+If you could go back and change one thing about your past, what would it be?
+Which is more critical – beauty, power, or money?
+What’s your biggest fear?
+What makes you feel unstoppable?
+What is your biggest regret?
+Do you think people are mostly good or mostly evil? Why?
+Where do you go when you need fresh inspiration?
+What’s your philosophy on life?
+Do you like diving into the deep end or easing your way into the water? (literally or figuratively)?
+What life-changing events have you experienced?
+What’s one thing you would change about yourself? 
+Have you ever had a moment of deja vu?
+What legacy do you want to leave on Earth once you’re gone?
+What gives you hope?
